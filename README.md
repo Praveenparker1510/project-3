@@ -21,9 +21,11 @@ Machine Learning	Model development, training, tuning
 Model Evaluation	Comparing MAE, MSE, R-Squared metrics
 Streamlit Application	Deploying the model in a user-friendly interface
 Documentation	Comprehensive reporting and project summary
+
 📑 Dataset
 Source: Car Dheko data, spanning multiple cities with features like make, model, year, fuel type, transmission type, etc.
 Structure: Structured data format with columns representing car features and target prices.
+
 🛠 Project Workflow
 1. Data Processing
 Concatenation: Combine multiple city datasets into one structured dataset.
@@ -41,16 +43,19 @@ Feature Engineering: Enhance model accuracy with feature adjustments.
 5. Deployment
 Streamlit Application: Provides real-time price prediction based on user input.
 UI Design: Interactive, easy-to-use interface for customers and sales teams.
+
 🎨 Streamlit Application
 The app features:
 
 Simple User Inputs: Enter car details like make, model, year, etc.
 Instant Prediction: Real-time price predictions.
 User-Friendly Design: Intuitive and responsive interface.
+
 📊 Results and Deliverables
 ML Model: Accurate prediction model with high performance on test data.
 Interactive App: User-friendly tool for estimating car prices.
 Documentation: Clear explanation of methodology, data processing steps, and results.
+
 💡 Project Insights
 Leveraging features like car age, mileage, and condition significantly impacted model performance.
 Data preprocessing played a key role in ensuring model accuracy by handling missing values and standardizing features.
